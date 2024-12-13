@@ -55,6 +55,12 @@ Certifique-se de ter o Python 3.10 ou superior instalado no seu sistema.
    ```bash
    python game.py
    ```
+## Explicação Interativa do Projeto
+Para uma explicação detalhada e interativa do código, incluindo exemplos e a lógica por trás de cada parte, confira o seguinte arquivo:
+- [GamePy: Explicação Interativa](https://github.com/Rafa-s-s/GamePy_Projeto_Python/blob/main/GamePy_Explica%C3%A7%C3%A3o.ipynb)
+
+Você pode abrir o arquivo `.ipynb` diretamente no GitHub ou fazer o download para explorá-lo no Jupyter Notebook.
+
 
 ## Download do Projeto
 Caso você prefira, pode baixar o projeto como um arquivo compactado diretamente:
