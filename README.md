@@ -58,7 +58,7 @@ Certifique-se de ter o Python 3.10 ou superior instalado no seu sistema.
 
 ## Download do Projeto
 Caso você prefira, pode baixar o projeto como um arquivo compactado diretamente:
-- [Baixar GamePy.zip](Aqui)
+- [Baixar GamePy.zip](https://github.com/Rafa-s-s/GamePy_Projeto_Python/releases/tag/1.0)
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
