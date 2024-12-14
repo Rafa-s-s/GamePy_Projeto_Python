@@ -72,3 +72,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 ---
 
 Divirta-se resolvendo cálculos e aprimorando suas habilidades matemáticas! 🚀
+---
+![GamePy _img](https://github.com/user-attachments/assets/c1157d55-c5ec-4a05-b4ee-cd1095da66f3)
