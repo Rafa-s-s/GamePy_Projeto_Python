@@ -33,7 +33,7 @@ Certifique-se de ter o Python 3.10 ou superior instalado no seu sistema.
 ### Passos
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/GamePy.git
+   git clone https://github.com/Rafa-s-s/GamePy.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
